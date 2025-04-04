@@ -19,8 +19,8 @@ header {
   text-align: center;
   padding: 20px 0;
   margin-bottom: 30px;
-  background-color: #1a237e;
-  color: white;
+  background-color: #e3f2fd; /* Lighter blue shade */
+  color: #0d47a1;
   border-radius: 5px;
 }
 
@@ -94,8 +94,8 @@ section h3 {
 }
 
 button {
-  background-color: #1a237e;
-  color: white;
+  background-color: #e3f2fd; /* Lighter blue shade */
+  color: #0d47a1;
   border: none;
   padding: 10px 15px;
   font-size: 16px;
@@ -105,7 +105,7 @@ button {
 }
 
 button:hover {
-  background-color: #3949ab;
+  background-color: #bbdefb; /* Slightly darker blue shade */
 }
 
 .message {
